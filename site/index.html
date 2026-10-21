@@ -47,6 +47,11 @@ nav.tabs button[aria-selected="true"]{background:var(--primary);border-color:var
 .seg button[aria-pressed="true"]{background:var(--sun-soft);color:var(--ink);font-weight:700}
 .btn{font:inherit;font-weight:700;border:0;border-radius:12px;padding:8px 14px;cursor:pointer;background:var(--primary);color:var(--on-primary)}
 .btn.ghost{background:var(--card);color:var(--primary);border:2px solid var(--primary)}
+/* 点了就执行的练习按钮：中性样式，和表示“已选中”的青色区分开 */
+.practice{display:flex;flex-wrap:wrap;gap:8px}
+.act{font:inherit;font-weight:700;font-size:.95rem;display:inline-flex;align-items:center;gap:6px;border:2px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:6px 12px;cursor:pointer}
+.act svg{width:18px;height:18px;color:var(--primary)}
+@media (hover:hover){.act:hover{border-color:var(--primary)}}
 button:focus-visible,input:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
 .cards{display:grid;gap:12px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px 14px 14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 12px}
@@ -170,6 +175,8 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
       </div>
     </article>`;
   }
+  const PENCIL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16z"/><path d="m13.5 6.5 4 4"/></svg>';
+  const CHAT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg>';
   function modeBar(){
     return `<div class="tools">
       <div class="seg" role="group" aria-label="自测模式">
@@ -177,8 +184,10 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
         <button data-mode="zh" aria-pressed="${mode==='zh'}">遮中文</button>
         <button data-mode="en" aria-pressed="${mode==='en'}">遮英文</button>
       </div>
-      <button class="btn" data-act="quiz">拼写小测</button>
-      <button class="btn ghost" data-act="gemini">复制给 Gemini</button>
+    </div>
+    <div class="practice">
+      <button class="act" data-act="quiz">${PENCIL}拼写小测</button>
+      <button class="act" data-act="gemini">${CHAT}复制给 Gemini</button>
     </div>`;
   }
   function render(){
