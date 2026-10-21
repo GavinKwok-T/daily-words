@@ -1,5 +1,7 @@
 # Daily Words
 
+**网址：https://gavinkwok-t.github.io/daily-words/**
+
 给小学生用的英语单词网页：每天解锁 20 个新词，配英音发音、英式音标、中文释义、例句和拼写小测，错词自动进错词本。不需要账号，手机、平板、电脑打开网页就能用。
 
 - **词表**：剑桥英语官方词表 Pre A1 Starters → A1 Movers → A2 Flyers → A2 Key，共 1788 个词，大约 90 天学完。同级别里按话题分组，从易到难。
@@ -40,3 +42,5 @@
 环境：`/opt/homebrew/bin/python3.12 -m venv .venv && .venv/bin/pip install pypdf soundfile numpy`；音频转换用 macOS 自带的 `afconvert`。
 
 本地预览：`python3 -m http.server 8765 --directory site`，然后打开 http://localhost:8765 。
+
+发布：推送到 `main` 分支后，`.github/workflows/pages.yml` 会自动把 `site/` 发布到 GitHub Pages。
