@@ -196,13 +196,12 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
         <p class="note">每天解锁 20 个新词。想从头复习，就从第 1 天开始点。</p></div>`;
     } else if(view==='missed'){
       const all=DAYS.flatMap(d=>d.w); const list=missed.map(w=>all.find(x=>x.w===w)).filter(Boolean);
-      v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
-        :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。</p>`;
+      v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<p class="note">在这里做拼写小测，拼对的词会自动移出错词本。</p><div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
+        :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。在错词本里做拼写小测，拼对的词就会自动移出。</p>`;
     } else if(view==='settings'){
       v.innerHTML=`<div class="panel">
         <label class="row" for="startDate">开始日期（第 1 天）<input id="startDate" type="date" value="${esc(start)}"></label>
         <p class="note">从开始日期起，每天自动解锁 20 个新词。改早几天，就能提前解锁更多。</p>
-        <button class="btn ghost" data-act="clearMissed">清空错词本</button>
         <p class="note">学习记录只保存在这台设备的浏览器里。换设备或清除浏览器数据，进度和错词本会重置。</p>
         <p class="note">词表来自剑桥英语 Pre A1 Starters、A1 Movers、A2 Flyers 和 A2 Key 官方词表；发音是微软 Azure 的英音 Sonia；音标为牛津风格的英式音标。</p>
       </div>`;
@@ -210,12 +209,13 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
   }
 
   /* spelling quiz over the words on screen */
-  function startQuiz(list){
-    const q=[...list].sort(()=>Math.random()-.5); let i=0, right=0;
+  /* fromMissed：在错词本里做小测时，拼对的词算掌握，移出错词本 */
+  function startQuiz(list,fromMissed){
+    const q=[...list].sort(()=>Math.random()-.5); let i=0, right=0, mastered=0;
     const v=$('#view');
     function step(){
       if(i>=q.length){v.innerHTML=`<div class="panel quiz"><div class="quiz-q">完成！拼对 ${right} / ${q.length} 个</div>
-        <p class="note">拼错的词已经放进错词本。</p><button class="btn" data-act="back">回到单词卡</button></div>`;header(shown);return;}
+        <p class="note">${fromMissed?(mastered?`${mastered} 个词已掌握，移出错词本；`:'')+'拼错的词继续留在错词本里，下次再考。':'拼错的词已经放进错词本。'}</p><button class="btn" data-act="back">回到单词卡</button></div>`;header(shown);return;}
       const x=q[i];
       v.innerHTML=`<form class="panel quiz" id="qf" autocomplete="off">
         <span class="bar-label">第 ${i+1} / ${q.length} 题</span>
@@ -235,7 +235,8 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
         const target=x.w.replace(/\s*\(.*?\)/g,'').split('/')[0];
         const ok=[x.w,target].some(t=>norm(t)===norm($('#qa').value));
         const r=$('#qr'); checked=true; $('#qs').textContent='下一题';
-        if(ok){right++;r.className='res ok';r.textContent='拼对了！';}
+        if(ok){right++;r.className='res ok';r.textContent=fromMissed?'拼对了！已掌握，移出错词本':'拼对了！';
+          if(fromMissed&&missed.includes(x.w)){missed=missed.filter(w=>w!==x.w);mastered++;store.set('missed',missed);header(shown);}}
         else{r.className='res no';r.innerHTML=`正确拼写：${esc(x.w)}`; if(!missed.includes(x.w)){missed.push(x.w);store.set('missed',missed);header(shown);}}
       });
     }
@@ -262,10 +263,9 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
     if(t.dataset.day){shown=+t.dataset.day;view='today';render();window.scrollTo({top:0});return;}
     if(t.matches('.mark')){const w=t.dataset.w;missed=missed.includes(w)?missed.filter(x=>x!==w):[...missed,w];store.set('missed',missed);render();return;}
     const act=t.dataset.act;
-    if(act==='quiz'){const list=view==='missed'?missed.map(w=>DAYS.flatMap(d=>d.w).find(x=>x.w===w)).filter(Boolean):DAYS[shown-1].w;startQuiz(list);}
+    if(act==='quiz'){const fm=view==='missed';const list=fm?missed.map(w=>DAYS.flatMap(d=>d.w).find(x=>x.w===w)).filter(Boolean):DAYS[shown-1].w;startQuiz(list,fm);}
     if(act==='back'){render();}
     if(act==='gemini'){copy(geminiText(DAYS[shown-1]));}
-    if(act==='clearMissed'){missed=[];store.set('missed',missed);render();toast('错词本已清空');}
   });
   document.addEventListener('change',e=>{
     if(e.target.id==='startDate'&&e.target.value){start=e.target.value;store.set('start',start);shown=null;render();toast('开始日期已更新');}
