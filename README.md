@@ -44,3 +44,11 @@
 本地预览：`python3 -m http.server 8765 --directory site`，然后打开 http://localhost:8765 。
 
 发布：推送到 `main` 分支后，`.github/workflows/pages.yml` 会自动把 `site/` 发布到 GitHub Pages。
+
+## 许可
+
+- **代码**（网页、脚本、发布配置）：[MIT](LICENSE)。
+- **学习内容**（中文释义、例句、提示、音标）和文档：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)，欢迎分享给其他家长、老师和孩子，注明来源、不用于商业即可。
+- **词表**依据剑桥英语官方词表（© UCLES），**发音音频**由微软 Azure 语音合成生成，这两部分不在上述授权范围内。
+
+详细说明见 [LICENSE-CONTENT.md](LICENSE-CONTENT.md)。
