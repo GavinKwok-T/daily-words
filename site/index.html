@@ -196,8 +196,8 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
         <p class="note">每天解锁 20 个新词。想从头复习，就从第 1 天开始点。</p></div>`;
     } else if(view==='missed'){
       const all=DAYS.flatMap(d=>d.w); const list=missed.map(w=>all.find(x=>x.w===w)).filter(Boolean);
-      v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<p class="note">在这里做拼写小测，拼对的词会自动移出错词本。</p><div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
-        :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。在错词本里做拼写小测，拼对的词就会自动移出。</p>`;
+      v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<p class="note">在这里做拼写小测，拼对了会出现"移出错词本"按钮，确定真的掌握了再点。</p><div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
+        :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。在错词本里做拼写小测，拼对了可以自己决定要不要移出。</p>`;
     } else if(view==='settings'){
       v.innerHTML=`<div class="panel">
         <label class="row" for="startDate">开始日期（第 1 天）<input id="startDate" type="date" value="${esc(start)}"></label>
@@ -209,19 +209,19 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
   }
 
   /* spelling quiz over the words on screen */
-  /* fromMissed：在错词本里做小测时，拼对的词算掌握，移出错词本 */
+  /* fromMissed：在错词本里做小测。拼对了也不自动移出（可能是蒙对的），由孩子自己点按钮决定 */
   function startQuiz(list,fromMissed){
-    const q=[...list].sort(()=>Math.random()-.5); let i=0, right=0, mastered=0;
+    const q=[...list].sort(()=>Math.random()-.5); let i=0, right=0, removed=0;
     const v=$('#view');
     function step(){
       if(i>=q.length){v.innerHTML=`<div class="panel quiz"><div class="quiz-q">完成！拼对 ${right} / ${q.length} 个</div>
-        <p class="note">${fromMissed?(mastered?`${mastered} 个词已掌握，移出错词本；`:'')+'拼错的词继续留在错词本里，下次再考。':'拼错的词已经放进错词本。'}</p><button class="btn" data-act="back">回到单词卡</button></div>`;header(shown);return;}
+        <p class="note">${fromMissed?(removed?`你移出了 ${removed} 个已经掌握的词；`:'')+'其余的词继续留在错词本里，下次再考。':'拼错的词已经放进错词本。'}</p><button class="btn" data-act="back">回到单词卡</button></div>`;header(shown);return;}
       const x=q[i];
       v.innerHTML=`<form class="panel quiz" id="qf" autocomplete="off">
         <span class="bar-label">第 ${i+1} / ${q.length} 题</span>
         <div class="quiz-q">${esc(x.zh)}</div>
         <button type="button" class="say" data-src="${esc(x.a||'')}" data-text="${esc(x.w)}" aria-label="再听一遍">${ICON}</button>
-        <input id="qa" aria-label="拼写" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="在这里拼写单词">
+        <input id="qa" name="spell-${Date.now()}" type="text" aria-label="拼写" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" data-lpignore="true" data-1p-ignore enterkeyhint="done" placeholder="在这里拼写单词">
         <div class="res" id="qr" aria-live="polite"></div>
         <div class="tools"><button class="btn" type="submit" id="qs">检查</button><button class="btn ghost" type="button" data-act="back">退出小测</button></div>
       </form>`;
@@ -235,8 +235,11 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
         const target=x.w.replace(/\s*\(.*?\)/g,'').split('/')[0];
         const ok=[x.w,target].some(t=>norm(t)===norm($('#qa').value));
         const r=$('#qr'); checked=true; $('#qs').textContent='下一题';
-        if(ok){right++;r.className='res ok';r.textContent=fromMissed?'拼对了！已掌握，移出错词本':'拼对了！';
-          if(fromMissed&&missed.includes(x.w)){missed=missed.filter(w=>w!==x.w);mastered++;store.set('missed',missed);header(shown);}}
+        if(ok){right++;r.className='res ok';r.textContent='拼对了！';
+          if(fromMissed&&missed.includes(x.w)){
+            const b=document.createElement('button');b.type='button';b.className='btn ghost';b.style.marginLeft='10px';b.textContent='已经掌握了，移出错词本';
+            b.onclick=()=>{missed=missed.filter(w=>w!==x.w);store.set('missed',missed);removed++;header(shown);b.disabled=true;b.textContent='已移出';};
+            r.appendChild(b);}}
         else{r.className='res no';r.innerHTML=`正确拼写：${esc(x.w)}`; if(!missed.includes(x.w)){missed.push(x.w);store.set('missed',missed);header(shown);}}
       });
     }
