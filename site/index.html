@@ -78,6 +78,8 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--sun);outline-of
 .daylist button{font:inherit;font-weight:700;min-width:52px;border:2px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:6px 10px;cursor:pointer;font-variant-numeric:tabular-nums}
 .daylist button.cur{border-color:var(--primary);color:var(--primary)}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;display:grid;gap:12px}
+form.pin,div.row{display:grid;gap:8px}
+.practice .res{align-self:center}
 .quiz-q{font-family:var(--f-zh);font-size:1.4rem;font-weight:700}
 .quiz input{font:inherit;font-size:1.4rem;font-family:var(--f-display);width:100%;padding:10px 12px;border:2px solid var(--line);border-radius:12px;background:var(--bg);color:var(--ink)}
 .res{font-weight:700}.res.ok{color:var(--good)}.res.no{color:var(--bad)}
@@ -122,14 +124,29 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
   const ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
 
   let DAYS=[], view='today', shown=null, mode=store.get('mode','all');
-  const todayStr=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`};
-  let start=store.get('start',null); if(!start){start=todayStr();store.set('start',start);}
+  /* "今天"以服务器时间为准，并固定按菲律宾时间算日期：改设备的时间或时区都不能提前解锁。
+     服务器时间取自网站自己响应头里的 Date；没网时才退回设备时间。 */
+  const TZ='Asia/Manila';
+  let offset=0, timeSource='device';
+  async function syncTime(){
+    try{
+      const r=await fetch(location.pathname,{method:'HEAD',cache:'no-store'});
+      const t=Date.parse(r.headers.get('Date')||'');
+      if(!isNaN(t)){offset=t-Date.now();timeSource='server';}
+    }catch(e){}
+  }
+  const todayStr=()=>new Intl.DateTimeFormat('en-CA',{timeZone:TZ,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(Date.now()+offset));
+  const dayNo=s=>Date.UTC(+s.slice(0,4),+s.slice(5,7)-1,+s.slice(8,10))/864e5;
+  let start=store.get('start',null);  // 第一次打开时，等拿到服务器时间再记开始日期
   let missed=store.get('missed',[]);
   function unlocked(){
-    const a=new Date(start+'T00:00:00'), b=new Date(todayStr()+'T00:00:00');
-    const n=Math.floor((b-a)/864e5)+1;
+    const n=dayNo(todayStr())-dayNo(start)+1;
     return Math.max(1,Math.min(DAYS.length||90,n));
   }
+
+  /* 家长密码：改开始日期前要输入。只为了防孩子随手改，存的是简单哈希，不是安全加密 */
+  let settingsOpen=false;
+  const pinHash=p=>{let h=2166136261;for(const c of 'dw:'+p){h^=c.charCodeAt(0);h=Math.imul(h,16777619)>>>0;}return h.toString(16);};
 
   /* audio: pre-generated British English clips; device speech only as a fallback */
   let player=null,lastBtn=null;
@@ -208,9 +225,22 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
       v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<p class="note">在这里做拼写小测，拼对了会出现"移出错词本"按钮，确定真的掌握了再点。</p><div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
         :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。在错词本里做拼写小测，拼对了可以自己决定要不要移出。</p>`;
     } else if(view==='settings'){
+      const hasPin=!!store.get('pin',null);
+      const lock=settingsOpen
+        ? `<label class="row" for="startDate">修改开始日期<input id="startDate" type="date" value="${esc(start)}" max="${todayStr()}"></label>
+           <div><button class="act" data-act="lock">改好了，锁上</button></div>`
+        : hasPin
+        ? `<form class="pin" id="pinForm" autocomplete="off"><label class="row" for="pinIn">家长密码<input id="pinIn" type="password" inputmode="numeric" maxlength="4" autocomplete="off"></label>
+             <div class="practice"><button class="btn" type="submit">解锁修改</button><span class="res no" id="pinMsg" aria-live="polite"></span></div></form>`
+        : `<form class="pin" id="pinNew" autocomplete="off"><strong>先设一个 4 位数的家长密码，以后改开始日期都要用它</strong>
+             <label class="row" for="pin1">家长密码<input id="pin1" type="password" inputmode="numeric" maxlength="4" autocomplete="new-password"></label>
+             <label class="row" for="pin2">再输一次<input id="pin2" type="password" inputmode="numeric" maxlength="4" autocomplete="new-password"></label>
+             <div class="practice"><button class="btn" type="submit">保存密码</button><span class="res no" id="pinMsg" aria-live="polite"></span></div></form>`;
       v.innerHTML=`<div class="panel">
-        <label class="row" for="startDate">开始日期（第 1 天）<input id="startDate" type="date" value="${esc(start)}"></label>
-        <p class="note">从开始日期起，每天自动解锁 20 个新词。改早几天，就能提前解锁更多。</p>
+        <div class="row"><strong>开始日期（第 1 天）</strong><span>${esc(start)}</span></div>
+        ${lock}
+        <p class="note">从开始日期起，每天自动解锁 20 个新词。日期按网络时间（菲律宾时间）计算，改设备时间不会提前解锁。${timeSource==='device'?'<strong>现在没连上网，暂时用的是设备时间。</strong>':''}</p>
+        <p class="note">改开始日期需要家长密码。忘记密码的话，只能清除这个网站的浏览器数据，学习进度和错词本也会一起清空。</p>
         <p class="note">学习记录只保存在这台设备的浏览器里。换设备或清除浏览器数据，进度和错词本会重置。</p>
       </div>`;
     }
@@ -269,7 +299,7 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
     const t=e.target.closest('button,[data-day],.cover'); if(!t) return;
     if(t.classList.contains('cover')){t.classList.remove('cover');return;}
     if(t.matches('.say')){play(t.dataset.src,t.dataset.text,t);return;}
-    if(t.dataset.view){view=t.dataset.view;if(view==='today')shown=unlocked();render();return;}
+    if(t.dataset.view){view=t.dataset.view;settingsOpen=false;if(view==='today')shown=unlocked();render();return;}
     if(t.dataset.mode){mode=t.dataset.mode;store.set('mode',mode);render();return;}
     if(t.dataset.day){shown=+t.dataset.day;view='today';render();window.scrollTo({top:0});return;}
     if(t.matches('.mark')){const w=t.dataset.w;missed=missed.includes(w)?missed.filter(x=>x!==w):[...missed,w];store.set('missed',missed);render();return;}
@@ -277,13 +307,32 @@ textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2
     if(act==='quiz'){const fm=view==='missed';const list=fm?missed.map(w=>DAYS.flatMap(d=>d.w).find(x=>x.w===w)).filter(Boolean):DAYS[shown-1].w;startQuiz(list,fm);}
     if(act==='back'){render();}
     if(act==='gemini'){copy(geminiText(DAYS[shown-1]));}
+    if(act==='lock'){settingsOpen=false;render();toast('已锁上');}
   });
   document.addEventListener('change',e=>{
-    if(e.target.id==='startDate'&&e.target.value){start=e.target.value;store.set('start',start);shown=null;render();toast('开始日期已更新');}
+    if(e.target.id==='startDate'&&e.target.value&&settingsOpen){start=e.target.value;store.set('start',start);shown=null;render();toast('开始日期已更新');}
+  });
+  document.addEventListener('submit',e=>{
+    const f=e.target, msg=t=>{const m=$('#pinMsg');if(m)m.textContent=t;};
+    if(f.id==='pinNew'){
+      e.preventDefault();
+      const a=$('#pin1').value, b=$('#pin2').value;
+      if(!/^\d{4}$/.test(a)){msg('请输入 4 位数字');return;}
+      if(a!==b){msg('两次输入不一样');return;}
+      store.set('pin',pinHash(a));settingsOpen=true;render();toast('家长密码已保存');
+    }
+    if(f.id==='pinForm'){
+      e.preventDefault();
+      if(pinHash($('#pinIn').value)===store.get('pin',null)){settingsOpen=true;render();}
+      else{msg('密码不对');$('#pinIn').value='';}
+    }
   });
 
-  fetch('data/days.json').then(r=>r.json()).then(d=>{DAYS=d;render();})
-    .catch(()=>{$('#view').innerHTML='<p class="empty">单词没加载出来，请刷新页面再试。</p>';});
+  Promise.all([fetch('data/days.json').then(r=>r.json()),syncTime()]).then(([d])=>{
+    DAYS=d;
+    if(!start){start=todayStr();store.set('start',start);}
+    render();
+  }).catch(()=>{$('#view').innerHTML='<p class="empty">单词没加载出来，请刷新页面再试。</p>';});
 })();
 </script>
 </body>
