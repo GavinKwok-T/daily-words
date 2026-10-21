@@ -1,0 +1,14952 @@
+[
+ {
+  "raw": "a",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "about",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "add",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "afternoon",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "again",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "alien",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "alphabet",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "an",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "and",
+  "pos": "conj",
+  "level": "Starters"
+ },
+ {
+  "raw": "angry",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "animal",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "Ann/ Anna",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "answer",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "apartment (UK flat)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "apple",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "arm",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "armchair",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ask",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "at",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "baby",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "badminton",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bag",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ball",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "balloon",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "banana",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "baseball",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "baseball cap",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "basketball",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bat (as sports equipment)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bath",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bathroom",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "be",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "beach",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bean",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bear",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "beautiful",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "bed",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bedroom",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bee",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "behind",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "between",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "big",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "bike",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bird",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "birthday",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "black",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "blue",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "board",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "board game",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "boat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "body",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "book",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bookcase",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bookshop",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "boots",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bounce",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "box",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "boy",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bread",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "breakfast",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "brother",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "brown",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "burger",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "bus",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "but",
+  "pos": "conj",
+  "level": "Starters"
+ },
+ {
+  "raw": "bye",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "cake",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "camera",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "can",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "candy (UK sweet(s))",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "car",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "carrot",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "cat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "catch (e.g. a ball)",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "chair",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "chicken",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "child/ children",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "chips (US fries)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "chocolate",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "choose",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "clap",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "class",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "classmate",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "classroom",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "clean",
+  "pos": "adj + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "clock",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "close",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "closed",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "clothes",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "coconut",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "colour (US color)",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "come",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "complete",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "computer",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "cool",
+  "pos": "adj + excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "correct",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "count",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "cousin",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "cow",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "crayon",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "crocodile",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "cross",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "cupboard",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "dad",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "day",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "desk",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "dining room",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "dinner",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "dirty",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "do",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "dog",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "doll",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "donkey",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "don’t worry",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "door",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "double",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "draw",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "drawing",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "dress",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "drink",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "drive",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "duck",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ear",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "eat",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "egg",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "elephant",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "end",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "English",
+  "pos": "adj + n",
+  "level": "Starters"
+ },
+ {
+  "raw": "enjoy",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "eraser (UK rubber)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "evening",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "example",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "eye",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "face",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "family",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "fantastic",
+  "pos": "adj + excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "father",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "favourite (US favorite)",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "find",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "fish (s + pl)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "fishing",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "flat (US apartment)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "floor",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "flower",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "fly",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "food",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "foot/feet",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "football (US soccer)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "for",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "friend",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "fries (UK chips)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "frog",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "from",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "fruit",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "fun",
+  "pos": "adj + n",
+  "level": "Starters"
+ },
+ {
+  "raw": "funny",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "game",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "garden",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "get",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "giraffe",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "girl",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "give",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "glasses",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "go",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "go to bed",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "go to sleep",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "goat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "good",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "goodbye",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "grandfather",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "grandma",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "grandmother",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "grandpa",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "grape",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "gray (UK grey)",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "great",
+  "pos": "adj + excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "green",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "grey (US gray)",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "guitar",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hair",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hall",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hand",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "handbag",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "happy",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "hat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "have",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "have got",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "he",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "head",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "helicopter",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hello",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "her",
+  "pos": "poss adj + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "here",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "hers",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "hi",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "him",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "hippo",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "his",
+  "pos": "poss adj + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "hit",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "hobby",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hockey",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "hold",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "home",
+  "pos": "n + adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "hooray",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "horse",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "house",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "how",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "how many",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "how old",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "I",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "ice cream",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "in",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "in front of",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "it",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "its",
+  "pos": "poss adj + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "jacket",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "jeans",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "jellyfish",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "juice",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "jump",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "keyboard (computer)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "kick",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "kid",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "kitchen",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "kite",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "kiwi",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "know",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "lamp",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "learn",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "leg",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "lemon",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "lemonade",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "lesson",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "let’s",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "letter (as in alphabet)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "like",
+  "pos": "prep + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "lime",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "line",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "listen",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "live",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "living room",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "lizard",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "long",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "look",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "look at",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "lorry (US truck)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "a lot",
+  "pos": "adv + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "a lot of",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "lots",
+  "pos": "adv + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "lots of",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "love",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "lunch",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "make",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "man/men",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mango",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "many",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "mat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "May (as in girl’s name)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "me",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "me too",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "meat",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "meatballs",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "milk",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mine",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "mirror",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "monkey",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "monster",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "morning",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mother",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "motorbike",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mouse/mice",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mouse (computer)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mouth",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "mum",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "music",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "my",
+  "pos": "poss adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "name",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "new",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "next to",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "nice",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "night",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "no",
+  "pos": "adv + det",
+  "level": "Starters"
+ },
+ {
+  "raw": "nose",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "not",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "now",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "number",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "of",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "oh",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "oh dear",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "OK",
+  "pos": "adj + dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "old",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "on",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "one",
+  "pos": "det + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "onion",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "open",
+  "pos": "adj + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "or",
+  "pos": "conj",
+  "level": "Starters"
+ },
+ {
+  "raw": "orange",
+  "pos": "adj + n",
+  "level": "Starters"
+ },
+ {
+  "raw": "our",
+  "pos": "poss adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "ours",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "page",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "paint",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "painting",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "paper",
+  "pos": "adj + n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pardon",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "park",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "part",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pea",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pear",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pen",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pencil",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "person/people",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pet",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "phone",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "photo",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "piano",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pick up",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "picture",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pie",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pineapple",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "pink",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "plane",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "play",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "playground",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "please",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "point",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "polar bear",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "poster",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "potato",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "purple",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "put",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "question",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "radio",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "read",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "really",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "red",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "rice",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ride",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "right",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "right (as in correct)",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "robot",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "room",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "rubber (US eraser)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "rug",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ruler",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "run",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "sad",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "sand",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sausage",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "say",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "scary",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "school",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sea",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "see",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "see you",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "sentence",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "she",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "sheep (s + pl)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "shell",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ship",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "shirt",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "shoe",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "shop (US store)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "short",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "shorts",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "show",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "silly",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "sing",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "sister",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sit",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "skateboard",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "skateboarding",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "skirt",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sleep",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "small",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "smile",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "snake",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "so",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "soccer (UK football)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sock",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sofa",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "some",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "song",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sorry",
+  "pos": "adj + int",
+  "level": "Starters"
+ },
+ {
+  "raw": "spell",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "spider",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sport",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "stand",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "start",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "stop",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "store (UK shop)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "story",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "street",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sun",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "sweet(s) (US candy)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "swim",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "table",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "table tennis",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tablet",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tail",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "take a photo/picture",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "talk",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "teacher",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "teddy (bear)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "television/TV",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tell",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "tennis",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tennis racket",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "thank you",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "thanks",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "that",
+  "pos": "det + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "the",
+  "pos": "det",
+  "level": "Starters"
+ },
+ {
+  "raw": "their",
+  "pos": "poss adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "theirs",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "them",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "then",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "there",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "these",
+  "pos": "det + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "they",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "thing",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "this",
+  "pos": "det + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "those",
+  "pos": "det + pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "throw",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "tick",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "tiger",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "to",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "today",
+  "pos": "adv + n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tomato",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "too",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "toy",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "train",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "tree",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "trousers",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "truck (UK lorry)",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "try",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "T-shirt",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "TV /television",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "ugly",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "under",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "understand",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "us",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "very",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "walk",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "wall",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "want",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "watch",
+  "pos": "n + v",
+  "level": "Starters"
+ },
+ {
+  "raw": "water",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "watermelon",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "wave",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "we",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "wear",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "well",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "well done",
+  "pos": "dis",
+  "level": "Starters"
+ },
+ {
+  "raw": "what",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "where",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "which",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "white",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "who",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "whose",
+  "pos": "int",
+  "level": "Starters"
+ },
+ {
+  "raw": "window",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "with",
+  "pos": "prep",
+  "level": "Starters"
+ },
+ {
+  "raw": "woman/women",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "word",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "would like",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "wow",
+  "pos": "excl",
+  "level": "Starters"
+ },
+ {
+  "raw": "write",
+  "pos": "v",
+  "level": "Starters"
+ },
+ {
+  "raw": "year",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "yellow",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "yes",
+  "pos": "adv",
+  "level": "Starters"
+ },
+ {
+  "raw": "you",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "young",
+  "pos": "adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "your",
+  "pos": "poss adj",
+  "level": "Starters"
+ },
+ {
+  "raw": "yours",
+  "pos": "pron",
+  "level": "Starters"
+ },
+ {
+  "raw": "zebra",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "zoo",
+  "pos": "n",
+  "level": "Starters"
+ },
+ {
+  "raw": "above",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "address",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "afraid",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "after",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "age",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "all",
+  "pos": "adj + adv + det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "all right",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "along",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "always",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "another",
+  "pos": "det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "any",
+  "pos": "det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "app",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "around",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "asleep",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "at",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "aunt",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "awake",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "back",
+  "pos": "adj + adv + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bad",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "badly",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "balcony",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "band (music)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "basement",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bat",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "be called",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "beard",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "because",
+  "pos": "conj",
+  "level": "Movers"
+ },
+ {
+  "raw": "before",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "below",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "best",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "better",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "blanket",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "blond(e)",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "boring",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "both",
+  "pos": "det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "bottle",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bottom",
+  "pos": "adj + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bowl",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "brave",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "break",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "brilliant",
+  "pos": "adj + excl",
+  "level": "Movers"
+ },
+ {
+  "raw": "bring",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "build",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "building",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bus station",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "bus stop",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "busy",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "buy",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "by",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "café",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cage",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "call",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "car park",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "careful",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "carefully",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "carry",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "catch (e.g. a bus)",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "centre (US center)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "change",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "cheese",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cinema",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "circle",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "circus",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "city",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "(US center)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "clever",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "climb",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "cloud",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cloudy",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "clown",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "coat",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "coffee",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cold",
+  "pos": "adj + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "come on",
+  "pos": "excl",
+  "level": "Movers"
+ },
+ {
+  "raw": "comic",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "comic book",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cook",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "cough",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "for ability)",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "country",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "countryside",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "cry",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "cup",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "curly",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "dance",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "dangerous",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "daughter",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "dentist",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "difference",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "different",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "difficult",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "doctor",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "dolphin",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "down",
+  "pos": "adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "downstairs",
+  "pos": "adv + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "dream",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "dress up",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "drive",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "driver",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "drop",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "dry",
+  "pos": "adj + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "earache",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "easy",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "e-book",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "elevator (UK lift)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "email",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "every",
+  "pos": "det",
+  "level": "Movers"
+ },
+ {
+  "raw": "everyone",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "everything",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "exciting",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "excuse me",
+  "pos": "dis",
+  "level": "Movers"
+ },
+ {
+  "raw": "fair",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "fall",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "famous",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "farm",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "farmer",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "fat",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "feed",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "field",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "film (US movie)",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "film (US movie) star",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "fine",
+  "pos": "adj + excl",
+  "level": "Movers"
+ },
+ {
+  "raw": "first",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "fish",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "fix",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "fly",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "forest",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "frightened",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "funfair",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "get dressed",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "get off",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "get on",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "get undressed",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "get up",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "glass",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "go shopping",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "goal",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "granddaughter",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "grandparent",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "grandson",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "grass",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "ground",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "grow",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "grown-up",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "have (got) to",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "headache",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "helmet",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "help",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "hide",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "holiday",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "homework",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "hop",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "hospital",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "hot",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "how",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "how much",
+  "pos": "adv + int",
+  "level": "Movers"
+ },
+ {
+  "raw": "how often",
+  "pos": "adv + int",
+  "level": "Movers"
+ },
+ {
+  "raw": "huge",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "hundred",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "hungry",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "hurt",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "ice",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "ice skates",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "ice skating",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "idea",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "ill",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "inside",
+  "pos": "adv + n + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "internet",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "into",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "invite",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "island",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "jungle",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "kangaroo",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "kick",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "kind",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "kitten",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "lake",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "laptop",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "last",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "laugh",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "leaf/leaves",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "library",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "lift (US elevator)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "lion",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "little",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "look for",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "lose",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "loud",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "loudly",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "machine",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "map",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "market",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "matter",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "mean",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "message",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "milkshake",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "mistake",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "model",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "moon",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "more",
+  "pos": "adv + det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "most",
+  "pos": "adv + det + pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "mountain",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "moustache",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "move",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "movie (UK film)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "must",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "naughty",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "near",
+  "pos": "adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "neck",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "need",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "net",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "never",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "noise",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "noodles",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "nothing",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "nurse",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "o’clock",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "off",
+  "pos": "adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "often",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "on",
+  "pos": "adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "only",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "opposite",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "out",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "out of",
+  "pos": "prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "outside",
+  "pos": "adv + n + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "pair",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pancake",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "panda",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "parent",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "parrot",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "party",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pasta",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "penguin",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "picnic",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pirate",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "place",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "plant",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "plate",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "player",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pool",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pop star",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "practice",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "practise",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "present",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "pretty",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "puppy",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "put on",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "quick",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "quickly",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "quiet",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "quietly",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "rabbit",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "rain",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "rainbow",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "ride",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "river",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "road",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "rock",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "roller skates",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "roller skating",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "roof",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "round",
+  "pos": "adj + adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "safe",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "sail",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "salad",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "sandwich",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "sauce",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "scarf",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "score",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "seat",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "second",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "send",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "shall",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "shape",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "shark",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "shop",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "shopping",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "(US center)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "shoulder",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "shout",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "shower",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "sick",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "skate",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "skip",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "sky",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "slow",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "slowly",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "snail",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "snow",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "someone",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "something",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "sometimes",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "son",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "soup",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "(US center)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "square",
+  "pos": "adj + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "stair(s)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "star",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "station",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "stomach",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "stomach-ache",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "straight",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "strong",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "sunny",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "supermarket",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "surprised",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "sweater",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "sweet",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "swim",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "swimming pool",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "swimsuit",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "take",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "tall",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "tea",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "teach",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "temperature",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "terrible",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "text",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "than",
+  "pos": "conj + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "then",
+  "pos": "adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "thin",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "think",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "third",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "thirsty",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "ticket",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "tired",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "tooth/teeth",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "toothache",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "toothbrush",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "toothpaste",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "top",
+  "pos": "adj + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "towel",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "town",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "(US center)",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "tractor",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "travel",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "treasure",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "trip",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "T uesday",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "uncle",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "up",
+  "pos": "adv + prep",
+  "level": "Movers"
+ },
+ {
+  "raw": "upstairs",
+  "pos": "adv + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "vegetable",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "video",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "village",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "wait",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "wake (up)",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "walk",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "wash",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "water",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "waterfall",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "wave",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "weak",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "weather",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "website",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "week",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "weekend",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "well",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "wet",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "whale",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "when",
+  "pos": "adv + conj + int",
+  "level": "Movers"
+ },
+ {
+  "raw": "where",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "which",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "who",
+  "pos": "pron",
+  "level": "Movers"
+ },
+ {
+  "raw": "why",
+  "pos": "int",
+  "level": "Movers"
+ },
+ {
+  "raw": "wind",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "windy",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "work",
+  "pos": "n + v",
+  "level": "Movers"
+ },
+ {
+  "raw": "world",
+  "pos": "n",
+  "level": "Movers"
+ },
+ {
+  "raw": "worse",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "worst",
+  "pos": "adj + adv",
+  "level": "Movers"
+ },
+ {
+  "raw": "would",
+  "pos": "v",
+  "level": "Movers"
+ },
+ {
+  "raw": "wrong",
+  "pos": "adj",
+  "level": "Movers"
+ },
+ {
+  "raw": "yesterday",
+  "pos": "adv + n",
+  "level": "Movers"
+ },
+ {
+  "raw": "across",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "act",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "actor",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "actually",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "adventure",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "after",
+  "pos": "adv + conj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ago",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "agree",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "air",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "airport",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "alone",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "already",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "also",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "amazing",
+  "pos": "adj + excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ambulance",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "anyone",
+  "pos": "pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "anything",
+  "pos": "pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "anywhere",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "appear",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "arrive",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "art",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "artist",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "as",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "as ... as",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "astronaut",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "at the moment",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "autumn (US fall)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "away",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "backpack (UK rucksack)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bandage",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bank",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "beetle",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "before",
+  "pos": "adv + conj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "begin",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "believe",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "belt",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bicycle",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bin",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "biscuit (US cookie)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bit",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bored",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "borrow",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bracelet",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "break",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "bridge",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "broken",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "brush",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "burn",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "business",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "businessman/woman",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "butter",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "butterfly",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "by myself",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "by yourself",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "calendar",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "camel",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "camp",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "card",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cartoon",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "castle",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cave",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "century",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cereal",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "channel",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "chat",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cheap",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "chemist(’s)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "chess",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "chopsticks",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "club",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "collect",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "college",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "comb",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "competition",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "concert",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "conversation",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cooker",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cookie (UK biscuit)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "corner",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "costume",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "could (for possibility)",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "creature",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "crown",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cushion",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cut",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "cycle",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "dark",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "date (as in time)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "dear (as in Dear Harry)",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "decide",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "deep",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "delicious",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "desert",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "design",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "designer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "diary",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "dictionary",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "dinosaur",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "disappear",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "drum",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "during",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "each",
+  "pos": "det + pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "eagle",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "early",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "east",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "elbow",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "else",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "empty",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "end",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "engine",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "engineer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "enormous",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "enough",
+  "pos": "adj + pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "enter (a competition)",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "entrance",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "envelope",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "environment",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ever",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "everywhere",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "excellent",
+  "pos": "adj + excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "excited",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "exit",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "expensive",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "explain",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "explore",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "extinct",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "factory",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fall (UK autumn)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fall over",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "far",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fast",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "feel",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "festival",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fetch",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "a few",
+  "pos": "det",
+  "level": "Flyers"
+ },
+ {
+  "raw": "file)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "find out",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "finger",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "finish",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fire",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fire engine (US fire truck)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fire fighter",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fire station",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "flag",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "flashlight (UK torch)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "flour",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fog",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "foggy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "follow",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "for",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "forget",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fork",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fridge",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "friendly",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "frightening",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "front",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "full",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "fur",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "furry",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "future",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "gate",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "geography",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "get to",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "glass",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "glove",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "glue",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "go away",
+  "pos": "excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "go out",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "gold",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "golf",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "group",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "guess",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "gym",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "half",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "happen",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hard",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hate",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hear",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "heavy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "high",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hill",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "history",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hole",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "honey",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hope",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "horrible",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hotel",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hour",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "how long",
+  "pos": "adv + int",
+  "level": "Flyers"
+ },
+ {
+  "raw": "hurry",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "husband",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "if",
+  "pos": "conj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "if you want",
+  "pos": "excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "important",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "improve",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "in a minute",
+  "pos": "excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "information",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "insect",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "instead",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "instrument",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "interested",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "interesting",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "invent",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "invitation",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "jam",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "job",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "join (a club)",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "journalist",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "journey",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "just",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "keep",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "key",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "(US kilometer)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "kind",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "king",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "knee",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "knife",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "land",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "language",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "large",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "late",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "later",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lazy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "leave",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "left (as in direction)",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "let",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "letter (as in mail)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lie (as in lie down)",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lift (ride)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lift",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "light",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "a little",
+  "pos": "adv + det",
+  "level": "Flyers"
+ },
+ {
+  "raw": "look after",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "look like",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lovely",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "low",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "lucky",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "magazine",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "make sure",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "manager",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "married",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "match (football)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "maths (US math)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "may",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "meal",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "mechanic",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "medicine",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "meet",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "meeting",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "member",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "metal",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "midday",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "middle",
+  "pos": "n + adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "midnight",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "might",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "million",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "mind",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "minute",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "missing",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "mix",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "money",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "month",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "motorway",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "much",
+  "pos": "adv + det + pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "museum",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "necklace",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "nest",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "news",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "newspaper",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "next",
+  "pos": "adj + adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "no problem",
+  "pos": "excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "noisy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "no-one",
+  "pos": "pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "north",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "nowhere",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ocean",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "octopus",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "of course",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "office",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "olives",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "once",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "online",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "other",
+  "pos": "det + pron",
+  "level": "Flyers"
+ },
+ {
+  "raw": "oven",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "over",
+  "pos": "adv + prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pajamas (UK pyjamas)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "passenger",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "past",
+  "pos": "n + prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "path",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pepper",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "perhaps",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "photographer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "piece",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pilot",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pizza",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "planet",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "plastic",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "platform",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pleased",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pocket",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "police officer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "police station",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pond",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "poor",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pop music",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "popular",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "post",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "post office",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "postcard",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "prefer",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "prepare",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "prize",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "problem",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "(US program)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "project",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pull",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "push",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "puzzle",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pyjamas (US pajamas)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "pyramid",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "quarter",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "queen",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "quite",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "quiz",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "race",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "racing (car; bike)",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "railway",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ready",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "remember",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "repair",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "repeat",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "restaurant",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "rich",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "right",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "right (as in direction)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ring",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "rock music",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "rocket",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "rucksack (US backpack)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "salt",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "same",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "save",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "science",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "scissors",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "score",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "screen",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "search",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "secret",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sell",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "several",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "shampoo",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "shelf",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "should",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "silver",
+  "pos": "adj + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "since",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "singer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "ski",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "skyscraper",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sledge",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "smell",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "snack",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "snowball",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "snowboard",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "snowboarding",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "snowman",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "so",
+  "pos": "adv + conj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "soap",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "soft",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "somewhere",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "soon",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sore",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sound",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "south",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "space",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spaceship",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "speak",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "special",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spend",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spoon",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spot",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spotted",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "spring",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stadium",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stage (theatre)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stamp",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stay",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "step",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "still",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stone",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "storm",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "straight on",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "strange",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "strawberry",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stream",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "stripe",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "striped",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "student",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "study",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "subject",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "such",
+  "pos": "det",
+  "level": "Flyers"
+ },
+ {
+  "raw": "suddenly",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sugar",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "suitcase",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "summer",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sunglasses",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "sure",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "surname",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "surprise",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "swan",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "swing",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "20  minutes)",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "taste",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "taxi",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "team",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "telephone",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tent",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "thank",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "theatre (US theater)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "thousand",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "through",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tidy",
+  "pos": "adj + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "time",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "timetable",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "toe",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "together",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tomorrow",
+  "pos": "adv + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tonight",
+  "pos": "adv + n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "torch (US flashlight)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tortoise",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "touch",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tour",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "traffic",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "trainers",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tune",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "turn",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "turn off",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "turn on",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "twice",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "tyre (US tire)",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "umbrella",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "unfriendly",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "unhappy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "uniform",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "university",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "unkind",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "untidy",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "until",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "unusual",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "use",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "usually",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "view",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "violin",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "visit",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "volleyball",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "waiter",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "warm",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "way",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "west",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wheel",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "while",
+  "pos": "conj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "whisper",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "whistle",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wife",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wifi",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wild",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "will",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "win",
+  "pos": "v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wing",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "winner",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "winter",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wish",
+  "pos": "n + v",
+  "level": "Flyers"
+ },
+ {
+  "raw": "without",
+  "pos": "prep",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wonderful",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wood",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "wool",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "worried",
+  "pos": "adj",
+  "level": "Flyers"
+ },
+ {
+  "raw": "x-ray",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "yet",
+  "pos": "adv",
+  "level": "Flyers"
+ },
+ {
+  "raw": "yoghurt",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "you’re welcome",
+  "pos": "excl",
+  "level": "Flyers"
+ },
+ {
+  "raw": "zero",
+  "pos": "n",
+  "level": "Flyers"
+ },
+ {
+  "raw": "a/an",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "a few",
+  "pos": "det, adj & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "able",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "about",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "above",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "accident",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "accommodation",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "across",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "act",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "action",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "activity",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "actor",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "actually",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "ad",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "add",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "address",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "adult",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "advanced",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "adventure",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "advert",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "advertisement",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "advice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "aeroplane",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "afraid",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "after",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "afternoon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "afterwards",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "again",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "against",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "age",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "aged",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "ago",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "agree",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "air",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "airport",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "alarm clock",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "album",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "all",
+  "pos": "adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "all kinds of",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "allow",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "all right/alright",
+  "pos": "adj, adv & exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "all sorts of",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "all the time",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "almost",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "alone",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "along",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "already",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "alright",
+  "pos": "adj, adv & exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "also",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "always",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "a.m.",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "amazed",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "amazing",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "ambulance",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "among",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "an",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "and",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "angry",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "animal",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "another",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "answer",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "any",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "anybody",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "anymore",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "anyone",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "anything",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "anyway",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "anywhere",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "apartment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "apartment building",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "app",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "apple",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "appointment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "April",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "area",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "arm",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "armchair",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "around",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "arrive",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "art",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "article",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "artist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "as",
+  "pos": "conj & adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "ask",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "assistant",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "as well",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "at",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "at / @",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "at all",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "attractive",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "August",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "aunt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "autumn",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "available",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "away",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "awesome",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "awful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "baby",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "back",
+  "pos": "n, adv & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "backpack",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bad",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "badly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "badminton",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bag",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bake",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "ball",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "balloon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "banana",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "band",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bank",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "barbecue/barbeque",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "baseball",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "basketball",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bath",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bathing suit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bathroom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bathtub",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "battery",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "be",
+  "pos": "av & v",
+  "level": "Key"
+ },
+ {
+  "raw": "beach",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bean",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bear",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "beard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "beautiful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "because",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "because of",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "become",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "bed",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bedroom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bee",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "beetle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "before",
+  "pos": "adv, conj & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "begin",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "beginner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "beginning",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "behind",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "believe",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "belong",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "below",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "belt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "beside",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "best",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "better",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "between",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "bicycle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "big",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "bike",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bill",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bin",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "biology",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bird",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "birth",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "birthday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bit",
+  "pos": "n & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "black",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "blackboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "blanket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "block",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "blog",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "blood",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "blouse",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "blue",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "board",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "board game",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "boat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "body",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "boil",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "boiled",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "book",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "bookcase",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bookshelf",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "boot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bored",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "boring",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "born",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "borrow",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "boss",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "both",
+  "pos": "pron & det",
+  "level": "Key"
+ },
+ {
+  "raw": "bother",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "bottle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bottom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bowl",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "box",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "boy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "boyfriend",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bracelet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "brain",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "brave",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "bread",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "break",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "break down",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "breakfast",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bridge",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bright",
+  "pos": "adj – for colours",
+  "level": "Key"
+ },
+ {
+  "raw": "brilliant",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "bring",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "bring back",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "broken",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "brother",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "brown",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "brush",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "build",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "building",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "burger",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bus",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "business",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "businessman",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "businesswoman",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "business person",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bus station",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "bus stop",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "busy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "but",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "butter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "butterfly",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "buy",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "by",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "by accident",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "by the way",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "by post",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "bye",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "cabinet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cafe/café",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cafeteria",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cake",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "calendar",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "call",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "camel",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "camera",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "camp",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "camping",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "campsite",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cap",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "capital",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "can",
+  "pos": "n & mv",
+  "level": "Key"
+ },
+ {
+  "raw": "candy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cannot",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "car",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "card",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "career",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "careful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "carefully",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "carpet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "carrot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "carry",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cartoon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "case",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cash",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "castle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "catch",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "CD",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "CD player",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ceiling",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cell phone",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "celebrate",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "celebrity",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cent",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "centre/center",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "century",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cereal",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "certainly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "chain",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chair",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "change",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "channel",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "character",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chatroom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cheap",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "check",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cheese",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chef",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chemistry",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cheque",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chess",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chicken",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "child",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chilli",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "chocolate",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "choose",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cinema",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "circle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "circus",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "city",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "city centre",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "class",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "classical",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "classmate",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "classroom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "clean",
+  "pos": "adj & v",
+  "level": "Key"
+ },
+ {
+  "raw": "cleaner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "clear",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "clearly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "clever",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "click",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "climb",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "climbing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "clock",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "close",
+  "pos": "adj & v",
+  "level": "Key"
+ },
+ {
+  "raw": "close to",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "closed",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "closet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "clothes",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "cloud",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cloudy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "clown",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "club",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "coach",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "coat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "coast",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "coat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "coffee",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cola",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cold",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "colleague",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "collect",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "college",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "colour",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "comb",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "come",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "come back",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "comedy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "comfortable",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "comic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "company",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "competition",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "complete",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "computer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "concert",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "congratulations!",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "contact",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "continue",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "conversation",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cook",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "cooker",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cooking",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cool",
+  "pos": "adj & exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "copy",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "corner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "correct",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "cost",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "costume",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "could",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "country",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "countryside",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "course",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "court",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cousin",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cover",
+  "pos": "v &n",
+  "level": "Key"
+ },
+ {
+  "raw": "cow",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cream",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "creature",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "credit card",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cricket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "crocodile",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cross",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "crossing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "crowd",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "crowded",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "cry",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cup",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cupboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "curry",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "curtain",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "customer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "cut",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cycle",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "cycling",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dad",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "daily",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "dance",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "dancer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dancing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "danger",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dangerous",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "dark",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "date",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "daughter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "day",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dead",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "dear",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "December",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "decide",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "deep",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "degree",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "delay",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "delayed",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "delicious",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "deliver",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "dentist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "department",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "department store",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "describe",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "desert",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "design",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "desk",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dessert",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "details",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "diary",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dictionary",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "die",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "difference",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "different",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "difficult",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "digital",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "digital camera",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dining room",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dinner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dinosaur",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "diploma",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "directions",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dirty",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "disco",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "discount",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "discover",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "discuss",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "dish",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dive",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "diving",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "do",
+  "pos": "av & v",
+  "level": "Key"
+ },
+ {
+  "raw": "doctor",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "document",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dog",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "doll",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dollar",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dolphin",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "donkey",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "door",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "double",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "down",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "download",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "downstairs",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "Dr",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "draw",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "drawer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "drawing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dream",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "dress",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "dressed",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "drink",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "drive",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "driver",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "drop",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "drum",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "dry",
+  "pos": "adj & v",
+  "level": "Key"
+ },
+ {
+  "raw": "duck",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "during",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "DVD",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "DVD player",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "each",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "each other",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "eagle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ear",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "early",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "earn",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "earring",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "easily",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "east",
+  "pos": "n, adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "easy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "eat",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "egg",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "electric",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "electricity",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "elephant",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "else",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "email",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "empty",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "end",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "engine",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "engineer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "enjoy",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "enough",
+  "pos": "adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "enter",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "entrance",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "envelope",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "environment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "equipment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "especially",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "euro",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "even",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "evening",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "event",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ever",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "every",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "everybody",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "everyone",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "everything",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "everywhere",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "exactly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "examination/exam",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "example",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "excellent",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "except",
+  "pos": "conj & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "excited",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "exciting",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "excuse",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "exercise",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "exhibition",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "exit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "expensive",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "experience",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "experiment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "explain",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "explore",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "explorer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "extinct",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "extra",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "eye",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "face",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fact",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "factory",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fail",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "fair",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fall",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "fall over",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "family",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "famous",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fan",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fantastic",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "far",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "farm",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "farmer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fashion",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fast",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "fast food",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fat",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "father",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "favourite",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "February",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "feel",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "feelings",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "festival",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "few",
+  "pos": "det & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "field",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "file",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fill",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "fill in",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "film",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "final",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "finally",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "find",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "find out",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "fine",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "finger",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "finish",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "fire",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "first",
+  "pos": "adv & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "first name",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "first of all",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "fish",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "fishing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fit",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fix",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "flat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "flight",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "floor",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "flower",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fly",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "fog",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "foggy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "folder",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "follow",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "food",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "foot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "football",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "football player",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "footballer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "for",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "for sale",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "foreign",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "forest",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "forget",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "fork",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "form",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "free",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "fresh",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fridge",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Friday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fried",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "friend",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "friendly",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "frightened",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "frog",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "from",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "front",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "fruit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "full",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fun",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "funny",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "fur",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "furniture",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "further",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "future",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "gallery",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "game",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "garage",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "garden",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "garlic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "gate",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "geography",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "get",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "get back",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "get dressed",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "get fit",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "get married",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "get off",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "get on",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "get up",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "gift",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "giraffe",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "girl",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "girlfriend",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "give",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "give back",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "give somebody a call/ring",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "glad",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "glass",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "glasses",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "glove",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "go",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "goal",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "goat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "gold",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "golden",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "golf",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "good",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "good afternoon",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "goodbye",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "good evening",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "good-looking",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "good morning",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "good night",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "go out",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "grade",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandchild",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "granddaughter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandfather",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandma",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandmother",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandpa",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandparent",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grandson",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "granny",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grape",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grass",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "great",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "green",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "grilled",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "ground",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "group",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "grow",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "grow up",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "guess",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "Guess what?",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "guest",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "guest-house",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "guide",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "guidebook",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "guitar",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "guy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "gym",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hair",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "half",
+  "pos": "det, n & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "half-price",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hall",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hand",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "handbag",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "happen",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "happy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "harbour",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hard",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "hat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hate",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "have",
+  "pos": "av & v",
+  "level": "Key"
+ },
+ {
+  "raw": "have got to",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "have to",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "he",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "head",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "headache",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "headphones",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "headteacher",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "health",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "healthy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hear",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "heart",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "heating",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "heavy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "helicopter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hello",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "help",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "helpful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "her",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "here",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "hers",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "herself",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "hey",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "hi",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "high",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hill",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "him",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "himself",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "hip hop",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hippo",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "his",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "history",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hit",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "hobby",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hockey",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hold",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "holiday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "home",
+  "pos": "n & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "homework",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "honey",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hoodie",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hope",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "horrible",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "horror",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "horse",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hospital",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hot",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hotel",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "hour",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "house",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "housewife",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "how",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "however",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "huge",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hungry",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "hurry",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "hurt",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "husband",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "I",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "ice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ice cream",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ice skating",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ID",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ID card",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "idea",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "identification",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "if",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "ill",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "immediately",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "important",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "impossible",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "improve",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "in",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "include",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "including",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "indoor",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "indoors",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "information",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "in front of",
+  "pos": "prep phr",
+  "level": "Key"
+ },
+ {
+  "raw": "ingredient",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "insect",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "inside",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "instead",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "instead of",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "instructions",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "instrument",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "interested",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "interesting",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "international",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "internet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "into",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "invent",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "invention",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "invitation",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "invite",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "island",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "it",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "IT",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "its",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "itself",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "jacket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "jam",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "January",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "jazz",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "jeans",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "jellyfish",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "job",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "join",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "journalist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "journey",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "juice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "July",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "jump",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "jumper",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "June",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "just",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "kangaroo",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "keep",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "key",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "keyboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "kick",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "kind",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "king",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "kiss",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "kit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "kitchen",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "kite",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "kitten",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "knife",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "know",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "lake",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lamp",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "language",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "large",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "last",
+  "pos": "adj & det",
+  "level": "Key"
+ },
+ {
+  "raw": "late",
+  "pos": "adv & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "later",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "latest",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "laugh",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "lazy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "learn",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "least",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "leather",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "leave",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "left",
+  "pos": "adj, adv & n",
+  "level": "Key"
+ },
+ {
+  "raw": "left-hand",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "leg",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lemon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lemonade",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lend",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "length",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "less",
+  "pos": "adj, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "lesson",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "let",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "letter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "level",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "library",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "licence",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lie down",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "life",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lift",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "light",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "like",
+  "pos": "adv, prep & v",
+  "level": "Key"
+ },
+ {
+  "raw": "line",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lion",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "list",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "little",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "live",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "living room",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lizard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "local",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "long",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "look",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "look after",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "look at",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "look for",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "look out",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "lorry",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lose",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "lost",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "lots / a lot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "loud",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "love",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "lovely",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "low",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "luck",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "luckily",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "lucky",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "luggage",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lunch",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "lunchtime",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "machine",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mad",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "magazine",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mail",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "main course",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "make",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "make-up",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "man",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "manager",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mango",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "many",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "map",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "March",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mark",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "market",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "married",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "match",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "matter",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "May",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "may",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "maybe",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "me",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "meal",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mean",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "meat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mechanic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "medicine",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "meet",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "meeting",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "melon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "member",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "memory",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "menu",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "message",
+  "pos": "n, v",
+  "level": "Key"
+ },
+ {
+  "raw": "metal",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "microphone",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "midday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "middle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "midnight",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "might",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "mile",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "milk",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "million",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mind",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "mine",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "mineral water",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "minus",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "minute",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mirror",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Miss",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "miss",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "missing",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "mistake",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mix",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "model",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "modern",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "moment",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Monday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "money",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "monkey",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "month",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "monthly",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "moon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "more",
+  "pos": "adj, adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "morning",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "most",
+  "pos": "adj, adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "mother",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "motorbike",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "motorway",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mountain",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mouse",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mouth",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "move",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "Mr",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Mrs",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Ms",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "much",
+  "pos": "adj, adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "mug",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "museum",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "mushroom",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "music",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "musical",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "musician",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "must",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "my",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "myself",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "name",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "national",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "nationality",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "nature",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "near",
+  "pos": "adv & prep",
+  "level": "Key"
+ },
+ {
+  "raw": "nearly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "neck",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "necklace",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "need",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "neighbour",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "nervous",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "nest",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "net",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "never",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "new",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "news",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "newspaper",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "next",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "next to",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "nice",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "night",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "no",
+  "pos": "adv, det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "nobody",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "noise",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "noisy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "noon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "no one",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "normal",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "north",
+  "pos": "n, adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "nose",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "not",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "note",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "notebook",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "nothing",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "notice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "November",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "now",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "number",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "nurse",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ocean",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "occupation",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "October",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "octopus",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "o'clock",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "of",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "off",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "offer",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "office",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "often",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "oh",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "oh dear!",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "oil",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "OK/okay",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "old",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "Olympic",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "omelette",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "on",
+  "pos": "prep & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "once",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "one",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "onion",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "online",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "only",
+  "pos": "adv & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "open",
+  "pos": "adj & v",
+  "level": "Key"
+ },
+ {
+  "raw": "opera",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "opinion",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "opposite",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "or",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "orange",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "order",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "other",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "our",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "ours",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "ourselves",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "out",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "outdoor",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "outdoors",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "out of",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "outside",
+  "pos": "prep & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "oven",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "over",
+  "pos": "prep & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "own",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "pack",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "page",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pain",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "paint",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "painter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "painting",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pale",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "pair",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "panda",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "paper",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "paragraph",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pardon",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "parent",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "park",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "parrot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "part",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "partner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "party",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pass",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "passenger",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "passport",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "password",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "past",
+  "pos": "prep & n",
+  "level": "Key"
+ },
+ {
+  "raw": "pasta",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "path",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pay",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "pear",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pen",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pence",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pencil",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pencil case",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "penfriend",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "penguin",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "penny",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "people",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "pepper",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "per",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "perfect",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "perfume",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "perhaps",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "person",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "petrol",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "petrol station",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pharmacy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "phone",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "photographer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "photography",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "physics",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "piano",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pick up",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "picnic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "picture",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "piece",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pillow",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pilot",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pink",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "pity",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pizza",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "place",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "plan",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "plane",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "plant",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "plastic",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "plate",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "platform",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "play",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "player",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "playground",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pleasant",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "please",
+  "pos": "v & exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "pleased",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "plus",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "p.m.",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "pocket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "point",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "polar bear",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "police",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "police car",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "police officer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "police station",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "polite",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "pool",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "poor",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "poor thing/you",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "pop",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "popular",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "port",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "possible",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "possibly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "post",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "postcard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "poster",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "post office",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "potato",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "practise",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "prefer / would prefer",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "prepare",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "present",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pretty",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "price",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "print",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "printer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "prize",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "probably",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "problem",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "program",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "programme",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "project",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "pull",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "pupil",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "puppy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "purple",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "purse",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "push",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "put",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "put on",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "puzzle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "quarter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "queen",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "question",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "quick",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "quickly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "quiet",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "quite",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "quiz",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rabbit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "race",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "racket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "radio",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rain",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "raincoat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rainforest",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rap",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "read",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "reading",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ready",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "real",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "really",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "reason",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "receipt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "receive",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "recently",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "receptionist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "recipe",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "record",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "red",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "refrigerator",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "relaxing",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "remember",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "rent",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "repair",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "repeat",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "rest",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "restaurant",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "return",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "review",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rich",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "ride",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "riding",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "right",
+  "pos": "n, adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "right hand",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "ring",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "river",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "road",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "roast",
+  "pos": "v & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "rock",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "roof",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "room",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "round",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "roundabout",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rubber",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "rubbish",
+  "pos": "unc n",
+  "level": "Key"
+ },
+ {
+  "raw": "rugby",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ruler",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "run",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "runner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "running",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sad",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "safe",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "sail",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "sailing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "salad",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sale",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "salt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "same",
+  "pos": "adj & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "sandwich",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Saturday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sauce",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sausage",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "save",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "say",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "scared",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "scarf",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "scary",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "school",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "schoolchild",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "science",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "scientist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "scissors",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "scooter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "score",
+  "pos": "n, v",
+  "level": "Key"
+ },
+ {
+  "raw": "screen",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sea",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "season",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "seat",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "second",
+  "pos": "adj, det & n",
+  "level": "Key"
+ },
+ {
+  "raw": "secretary",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "see",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "seem",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "selfie",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sell",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "send",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "sentence",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "September",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "serious",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "serve",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "set",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "several",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "shall",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "shame",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shampoo",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "share",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "shark",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "she",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "sheep",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sheet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shelf",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ship",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shirt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shoe",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shop",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "shop assistant",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shopper",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shopping",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shopping centre",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "short",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "shorts",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "should",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "shout",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "show",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "shower",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "shut",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "shy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "sick",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "side",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sightseeing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sign",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "silver",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "similar",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "simple",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "since",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "sing",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "singer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "singing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "single",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "sink",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sister",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sit",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "sit down",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "site",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sitting room",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "size",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "skate",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "skateboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "skateboarding",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "skating",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ski",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "skiing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "skirt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sky",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sleep",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "slice",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "slim",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "slow",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "slowly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "small",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "smoke",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "smoking",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "snack",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "snail",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "snake",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "snow",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "snowboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "snowboarding",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "so",
+  "pos": "conj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "soap",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "soccer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "social media",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sock",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sofa",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "soft",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "software",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "some",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "somebody",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "someone",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "something",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "sometimes",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "somewhere",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "son",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "song",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "soon",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "sorry",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "sort",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sound",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "soup",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "south",
+  "pos": "n, adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "space",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "spare",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "speak",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "speaker",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "special",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "spell",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "spelling",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "spend",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "spider",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "spoon",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sport",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sports centre",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "spring",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "square",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "stadium",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "staff",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stage",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stairs",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "stamp",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stand",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "star",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "start",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "station",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stay",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "steak",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "steal",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "still",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "stomach",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stomach ache",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "stop",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "store",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "storm",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "story",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "straight",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "strange",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "strawberry",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "street",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "striped",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "stripes",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "strong",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "student",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "studies",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "study",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "stuff",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "subject",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "success",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "successful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "such",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "suddenly",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "sugar",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "suit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "suitcase",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "summer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sun",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Sunday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sunglasses",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "sunny",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "supermarket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "supper",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "suppose",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "sure",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "surf",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "surfboard",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "surfboarding",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "surfing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "surname",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "surprise",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "surprised",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "surprising",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "swan",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sweater",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "sweet",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "swim",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "swimming",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "swimming pool",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "swimsuit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "table",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "table tennis",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tablet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tail",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "take",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "take off",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "take part",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "talk",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "tall",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "tasty",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "taxi",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tea",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "teach",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "teacher",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "team",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "technology",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "teenager",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "telephone",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "tell",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "temperature",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tennis",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tennis player",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tent",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "term",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "terrible",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "test",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "text",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "textbook",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "text message",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "than",
+  "pos": "prep & conj",
+  "level": "Key"
+ },
+ {
+  "raw": "thank",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "thanks",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "thank you",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "that",
+  "pos": "conj & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "the",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "their",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "theirs",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "them",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "themselves",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "then",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "there",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "these",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "they",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "thin",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "thing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "think",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "thirsty",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "this",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "those",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "through",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "throw",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "thunderstorm",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Thursday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "ticket",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tidy",
+  "pos": "adj & v",
+  "level": "Key"
+ },
+ {
+  "raw": "tidy up",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "tie",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tiger",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tights",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "till",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "time",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "timetable",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tired",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "title",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "to",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "toast",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "today",
+  "pos": "n & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "toe",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "together",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "toilet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tomato",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tomorrow",
+  "pos": "n & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "tonight",
+  "pos": "n & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "tortoise",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "too",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "tooth",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "toothache",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "toothbrush",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "top",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "topic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "total",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "tour",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tour guide",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tourist",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tourist information centre",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "towel",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "town",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "toy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "traffic",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "traffic light",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "train",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "trainer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "tram",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "transport",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "travel",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "tree",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "trip",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "trouble",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "trousers",
+  "pos": "n pl",
+  "level": "Key"
+ },
+ {
+  "raw": "true",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "try",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "try on",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "T-shirt",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Tuesday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "turn",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "turn off",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "turn on",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "twice",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "type",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "umbrella",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "uncle",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "under",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "underground",
+  "pos": "n & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "understand",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "unfortunately",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "unhappy",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "uniform",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "university",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "until",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "unusual",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "up",
+  "pos": "prep & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "upload",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "upset",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "upstairs",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "us",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "use",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "useful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "usual",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "usually",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "v/versus",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "variety",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "various",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "vegetable",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "very",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "video",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "video game",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "view",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "village",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "violin",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "visit",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "visit",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "visitor",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "vocabulary",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "volleyball",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wait",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "waiter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "waitress",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wake",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "wake up",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "walk",
+  "pos": "v & n",
+  "level": "Key"
+ },
+ {
+  "raw": "walking",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wall",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wallet",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "want",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "wardrobe",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "warm",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wash",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "washing machine",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "washing-up",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wash up",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "watch",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "water",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "way",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "we",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "wear",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "weather",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "web",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "web page",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "website",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "Wednesday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "week",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "weekday",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "weekend",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "weekly",
+  "pos": "adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "welcome",
+  "pos": "adj & exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "well",
+  "pos": "adv & adj",
+  "level": "Key"
+ },
+ {
+  "raw": "well known",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "west",
+  "pos": "n, adj & adv",
+  "level": "Key"
+ },
+ {
+  "raw": "wet",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "whale",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "what",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "wheel",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "when",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "where",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "which",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "while",
+  "pos": "conj",
+  "level": "Key"
+ },
+ {
+  "raw": "white",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "who",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "whole",
+  "pos": "adj & n",
+  "level": "Key"
+ },
+ {
+  "raw": "whose",
+  "pos": "det & pron",
+  "level": "Key"
+ },
+ {
+  "raw": "why",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "wide",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wife",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wifi",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wild",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wildlife",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "win",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "wind",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "window",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "windsurfing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "windy",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "winner",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "winter",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wish",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "with",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "without",
+  "pos": "prep",
+  "level": "Key"
+ },
+ {
+  "raw": "woman",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wonderful",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wood",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wooden",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "wool",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "word",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "work",
+  "pos": "n & v",
+  "level": "Key"
+ },
+ {
+  "raw": "work out",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "worker",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "working hours",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "world",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "worried",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "worry",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "worse",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "worst",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "would",
+  "pos": "mv",
+  "level": "Key"
+ },
+ {
+  "raw": "wow",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "write",
+  "pos": "v",
+  "level": "Key"
+ },
+ {
+  "raw": "write down",
+  "pos": "phr v",
+  "level": "Key"
+ },
+ {
+  "raw": "writer",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "writing",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "wrong",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "Yeah!",
+  "pos": "exclam",
+  "level": "Key"
+ },
+ {
+  "raw": "year",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "yellow",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "yes",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "yesterday",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "yet",
+  "pos": "adv",
+  "level": "Key"
+ },
+ {
+  "raw": "you",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "young",
+  "pos": "adj",
+  "level": "Key"
+ },
+ {
+  "raw": "your",
+  "pos": "det",
+  "level": "Key"
+ },
+ {
+  "raw": "yours",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "yourself",
+  "pos": "pron",
+  "level": "Key"
+ },
+ {
+  "raw": "zebra",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "zero",
+  "pos": "n",
+  "level": "Key"
+ },
+ {
+  "raw": "zoo",
+  "pos": "n",
+  "level": "Key"
+ }
+]

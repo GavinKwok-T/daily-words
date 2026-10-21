@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Daily Words</title>
+<meta name="description" content="每天 20 个英语单词，剑桥少儿到 A2 Key 词汇，英音发音">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&family=Noto+Sans:wght@400&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<style>
+/* Layout: one friendly column of word cards under a progress header; tabs switch today / review / mistakes / settings */
+:root{
+  --bg:#eef6f4; --card:#ffffff; --ink:#16323a; --muted:#587078; --line:#d7e6e3;
+  --primary:#0e7c86; --on-primary:#ffffff; --sun:#ffb703; --sun-soft:#fff3cf;
+  --good:#2a9d6f; --bad:#d9532b; --bad-soft:#fde6de;
+  --f-display:"Fredoka","Nunito",system-ui,sans-serif;
+  --f-body:"Nunito","Noto Sans SC",-apple-system,"PingFang SC",system-ui,sans-serif;
+  --f-zh:"Noto Sans SC",-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  --f-ipa:"Noto Sans","Lucida Grande","Arial Unicode MS",sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0e1a1d; --card:#16262a; --ink:#e5f1f1; --muted:#9bb4b8; --line:#26393d;
+  --primary:#4fc3c9; --on-primary:#06282b; --sun:#ffc93c; --sun-soft:#3a3112;
+  --good:#4cc795; --bad:#ff7a59; --bad-soft:#3d2219; color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5;-webkit-text-size-adjust:100%}
+.wrap{max-width:720px;margin:0 auto;padding-block:max(16px,env(safe-area-inset-top,0px)) 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:16px}
+h1{font-family:var(--f-display);font-weight:600;font-size:1.9rem;margin:0;letter-spacing:.01em}
+h1 span{color:var(--primary)}
+.sub{color:var(--muted);margin:0;font-size:.95rem}
+.hero{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:18px 18px 16px;display:grid;gap:10px}
+.hero-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.day{font-family:var(--f-display);font-size:1.5rem;font-weight:600}
+.lv{font-size:.8rem;font-weight:700;background:var(--sun-soft);color:var(--ink);padding:3px 10px;border-radius:999px}
+.bar{height:10px;background:var(--line);border-radius:999px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--sun);border-radius:999px}
+.bar-label{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
+nav.tabs{display:flex;gap:6px;flex-wrap:wrap}
+nav.tabs button{font:inherit;font-weight:700;border:2px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:6px 14px;cursor:pointer}
+nav.tabs button[aria-selected="true"]{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.seg{display:inline-flex;border:2px solid var(--line);border-radius:12px;overflow:hidden;background:var(--card)}
+.seg button{font:inherit;font-size:.9rem;border:0;background:transparent;color:var(--muted);padding:6px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--sun-soft);color:var(--ink);font-weight:700}
+.btn{font:inherit;font-weight:700;border:0;border-radius:12px;padding:8px 14px;cursor:pointer;background:var(--primary);color:var(--on-primary)}
+.btn.ghost{background:var(--card);color:var(--primary);border:2px solid var(--primary)}
+button:focus-visible,input:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+.cards{display:grid;gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px 14px 14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 12px}
+.card.missed{border-color:var(--bad);box-shadow:inset 4px 0 0 var(--bad)}
+.main{min-width:0;display:grid;gap:4px}
+.wl{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.n{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.word{font-family:var(--f-display);font-weight:600;font-size:1.6rem;line-height:1.15;overflow-wrap:anywhere}
+.us{font-size:.75rem;font-weight:700;color:var(--primary);border:1.5px solid var(--primary);border-radius:999px;padding:0 8px}
+.ipa{font-family:var(--f-ipa);color:var(--muted);font-size:.95rem}
+.zh{font-family:var(--f-zh);font-size:1.05rem}
+.ex{display:flex;gap:8px;align-items:flex-start;color:var(--ink);font-style:italic}
+.tip{font-family:var(--f-zh);font-size:.85rem;color:var(--muted);background:var(--sun-soft);border-radius:8px;padding:2px 8px;justify-self:start}
+.side{display:grid;gap:8px;align-content:start;justify-items:end}
+.say{width:52px;height:52px;border-radius:16px;border:0;background:var(--sun);color:#2b2100;display:grid;place-items:center;cursor:pointer}
+.say.small{width:32px;height:32px;border-radius:10px;background:var(--sun-soft);color:var(--ink);flex:none}
+.say svg{width:26px;height:26px}.say.small svg{width:18px;height:18px}
+.say.on{outline:3px solid var(--primary)}
+.mark{font:inherit;font-size:.8rem;font-weight:700;border:2px solid var(--line);background:transparent;color:var(--muted);border-radius:10px;padding:2px 8px;cursor:pointer}
+.mark[aria-pressed="true"]{border-color:var(--bad);color:var(--bad);background:var(--bad-soft)}
+.cover{background:var(--line);color:transparent!important;border-radius:8px;cursor:pointer;user-select:none}
+.cover *{visibility:hidden}
+.daylist{display:flex;flex-wrap:wrap;gap:8px}
+.daylist button{font:inherit;font-weight:700;min-width:52px;border:2px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:6px 10px;cursor:pointer;font-variant-numeric:tabular-nums}
+.daylist button.cur{border-color:var(--primary);color:var(--primary)}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;display:grid;gap:12px}
+.quiz-q{font-family:var(--f-zh);font-size:1.4rem;font-weight:700}
+.quiz input{font:inherit;font-size:1.4rem;font-family:var(--f-display);width:100%;padding:10px 12px;border:2px solid var(--line);border-radius:12px;background:var(--bg);color:var(--ink)}
+.res{font-weight:700}.res.ok{color:var(--good)}.res.no{color:var(--bad)}
+.empty{color:var(--muted);text-align:center;padding:24px}
+.note{font-size:.8rem;color:var(--muted)}
+label.row{display:grid;gap:4px;font-weight:700}
+label.row input{font:inherit;padding:8px 10px;border:2px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);max-width:220px}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:12px;font-size:.9rem;max-width:calc(100% - 32px)}
+textarea.copy{width:100%;min-height:140px;font:inherit;font-size:.85rem;border:2px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--ink)}
+@media (prefers-reduced-motion:no-preference){.say,.btn{transition:transform .1s}.say:active,.btn:active{transform:scale(.96)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Daily <span>Words</span></h1>
+    <p class="sub">每天 20 个单词 · 点黄色喇叭听英音</p>
+  </header>
+
+  <section class="hero" aria-label="学习进度">
+    <div class="hero-top"><span class="day" id="dayTitle">第 1 天</span><span class="lv" id="level"></span></div>
+    <div class="bar"><i id="barFill" style="width:1%"></i></div>
+    <span class="bar-label" id="barLabel"></span>
+  </section>
+
+  <nav class="tabs" role="tablist" aria-label="页面">
+    <button role="tab" data-view="today" aria-selected="true">今天</button>
+    <button role="tab" data-view="review" aria-selected="false">复习</button>
+    <button role="tab" data-view="missed" aria-selected="false">错词本 <span id="missedCount"></span></button>
+    <button role="tab" data-view="settings" aria-selected="false">设置</button>
+  </nav>
+
+  <main id="view"><p class="empty">单词加载中…</p></main>
+</div>
+
+<script>
+(function(){
+  const $=s=>document.querySelector(s);
+  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const store={get(k,d){try{const v=localStorage.getItem('dw-'+k);return v===null?d:JSON.parse(v)}catch(e){return d}},
+               set(k,v){try{localStorage.setItem('dw-'+k,JSON.stringify(v))}catch(e){}}};
+  const ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
+
+  let DAYS=[], view='today', shown=null, mode=store.get('mode','all');
+  const todayStr=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`};
+  let start=store.get('start',null); if(!start){start=todayStr();store.set('start',start);}
+  let missed=store.get('missed',[]);
+  function unlocked(){
+    const a=new Date(start+'T00:00:00'), b=new Date(todayStr()+'T00:00:00');
+    const n=Math.floor((b-a)/864e5)+1;
+    return Math.max(1,Math.min(DAYS.length||90,n));
+  }
+
+  /* audio: pre-generated British English clips; device speech only as a fallback */
+  let player=null,lastBtn=null;
+  function play(src,text,btn){
+    if(player){player.pause();player=null;}
+    if(window.speechSynthesis) speechSynthesis.cancel();
+    if(lastBtn) lastBtn.classList.remove('on');
+    if(btn){btn.classList.add('on');lastBtn=btn;}
+    const done=()=>{if(btn) btn.classList.remove('on');};
+    if(src){
+      const a=new Audio(src); player=a; a.onended=done;
+      a.play().catch(()=>{done();speak(text,btn);});
+    } else speak(text,btn);
+  }
+  function speak(text,btn){
+    if(!window.speechSynthesis){toast('这台设备不能朗读');return;}
+    const u=new SpeechSynthesisUtterance(text); u.lang='en-GB'; u.rate=.85;
+    u.onend=()=>btn&&btn.classList.remove('on'); speechSynthesis.speak(u);
+  }
+  let tt; function toast(m){let t=$('.toast');if(!t){t=document.createElement('div');t.className='toast';t.setAttribute('role','status');document.body.appendChild(t);}t.textContent=m;t.hidden=false;clearTimeout(tt);tt=setTimeout(()=>t.hidden=true,2600);}
+
+  function header(dayNo){
+    const d=DAYS[dayNo-1], u=unlocked();
+    $('#dayTitle').textContent=dayNo===u?`第 ${dayNo} 天 · 今天`:`第 ${dayNo} 天`;
+    $('#level').textContent=d?d.lv:'';
+    $('#barFill').style.width=(u/DAYS.length*100).toFixed(1)+'%';
+    $('#barLabel').textContent=`已解锁 ${u} / ${DAYS.length} 天 · ${u*20>1790?1790:u*20} 个单词`;
+    $('#missedCount').textContent=missed.length?`(${missed.length})`:'';
+  }
+  function card(x,n){
+    const ce=mode==='en', cz=mode==='zh', miss=missed.includes(x.w);
+    return `<article class="card${miss?' missed':''}">
+      <div class="main">
+        <div class="wl"><span class="n">${n}</span><span class="word${ce?' cover':''}"><span>${esc(x.w)}</span></span>${x.us?`<span class="us">美式 ${esc(x.us)}</span>`:''}</div>
+        <span class="ipa${ce?' cover':''}"><span>${esc(x.ipa)}</span></span>
+        <span class="zh${cz?' cover':''}"><span>${esc(x.zh)}</span></span>
+        <span class="ex"><button class="say small" data-src="${esc(x.ea||'')}" data-text="${esc(x.ex)}" aria-label="听例句">${ICON}</button><span>${esc(x.ex)}</span></span>
+        ${x.tip?`<span class="tip">${esc(x.tip)}</span>`:''}
+      </div>
+      <div class="side">
+        <button class="say" data-src="${esc(x.a||'')}" data-text="${esc(x.w)}" aria-label="听 ${esc(x.w)}">${ICON}</button>
+        <button class="mark" data-w="${esc(x.w)}" aria-pressed="${miss}">${miss?'不会':'标记不会'}</button>
+      </div>
+    </article>`;
+  }
+  function modeBar(){
+    return `<div class="tools">
+      <div class="seg" role="group" aria-label="自测模式">
+        <button data-mode="all" aria-pressed="${mode==='all'}">全部显示</button>
+        <button data-mode="zh" aria-pressed="${mode==='zh'}">遮中文</button>
+        <button data-mode="en" aria-pressed="${mode==='en'}">遮英文</button>
+      </div>
+      <button class="btn" data-act="quiz">拼写小测</button>
+      <button class="btn ghost" data-act="gemini">复制给 Gemini</button>
+    </div>`;
+  }
+  function render(){
+    document.querySelectorAll('nav.tabs button').forEach(b=>b.setAttribute('aria-selected',b.dataset.view===view));
+    const u=unlocked(); if(shown===null||shown>u) shown=u;
+    header(shown);
+    const v=$('#view');
+    if(view==='today'){
+      const d=DAYS[shown-1];
+      v.innerHTML=`<div style="display:grid;gap:12px">${modeBar()}<div class="cards">${d.w.map((x,i)=>card(x,(shown-1)*20+i+1)).join('')}</div>
+        ${shown<u?`<button class="btn ghost" data-day="${u}">回到今天</button>`:''}</div>`;
+    } else if(view==='review'){
+      v.innerHTML=`<div class="panel"><strong>点一天回看（已解锁 ${u} 天）</strong><div class="daylist">${
+        Array.from({length:u},(_,i)=>`<button class="${i+1===shown?'cur':''}" data-day="${i+1}">${i+1}</button>`).join('')}</div>
+        <p class="note">每天解锁 20 个新词。想从头复习，就从第 1 天开始点。</p></div>`;
+    } else if(view==='missed'){
+      const all=DAYS.flatMap(d=>d.w); const list=missed.map(w=>all.find(x=>x.w===w)).filter(Boolean);
+      v.innerHTML=list.length?`<div style="display:grid;gap:12px">${modeBar()}<div class="cards">${list.map((x,i)=>card(x,i+1)).join('')}</div></div>`
+        :`<p class="empty">还没有错词。在单词卡上点"标记不会"，或者拼写小测里拼错的词，都会出现在这里。</p>`;
+    } else if(view==='settings'){
+      v.innerHTML=`<div class="panel">
+        <label class="row" for="startDate">开始日期（第 1 天）<input id="startDate" type="date" value="${esc(start)}"></label>
+        <p class="note">从开始日期起，每天自动解锁 20 个新词。改早几天，就能提前解锁更多。</p>
+        <button class="btn ghost" data-act="clearMissed">清空错词本</button>
+        <p class="note">学习记录只保存在这台设备的浏览器里。换设备或清除浏览器数据，进度和错词本会重置。</p>
+        <p class="note">词表来自剑桥英语 Pre A1 Starters、A1 Movers、A2 Flyers 和 A2 Key 官方词表；发音是微软 Azure 的英音 Sonia；音标为牛津风格的英式音标。</p>
+      </div>`;
+    }
+  }
+
+  /* spelling quiz over the words on screen */
+  function startQuiz(list){
+    const q=[...list].sort(()=>Math.random()-.5); let i=0, right=0;
+    const v=$('#view');
+    function step(){
+      if(i>=q.length){v.innerHTML=`<div class="panel quiz"><div class="quiz-q">完成！拼对 ${right} / ${q.length} 个</div>
+        <p class="note">拼错的词已经放进错词本。</p><button class="btn" data-act="back">回到单词卡</button></div>`;header(shown);return;}
+      const x=q[i];
+      v.innerHTML=`<form class="panel quiz" id="qf" autocomplete="off">
+        <span class="bar-label">第 ${i+1} / ${q.length} 题</span>
+        <div class="quiz-q">${esc(x.zh)}</div>
+        <button type="button" class="say" data-src="${esc(x.a||'')}" data-text="${esc(x.w)}" aria-label="再听一遍">${ICON}</button>
+        <input id="qa" aria-label="拼写" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="在这里拼写单词">
+        <div class="res" id="qr" aria-live="polite"></div>
+        <div class="tools"><button class="btn" type="submit" id="qs">检查</button><button class="btn ghost" type="button" data-act="back">退出小测</button></div>
+      </form>`;
+      const sb=v.querySelector('.say'); play(x.a,x.w,sb);
+      $('#qa').focus();
+      let checked=false;
+      $('#qf').addEventListener('submit',e=>{
+        e.preventDefault();
+        if(checked){i++;step();return;}
+        const norm=s=>s.toLowerCase().replace(/[’']/g,"'").replace(/\s+/g,' ').trim();
+        const target=x.w.replace(/\s*\(.*?\)/g,'').split('/')[0];
+        const ok=[x.w,target].some(t=>norm(t)===norm($('#qa').value));
+        const r=$('#qr'); checked=true; $('#qs').textContent='下一题';
+        if(ok){right++;r.className='res ok';r.textContent='拼对了！';}
+        else{r.className='res no';r.innerHTML=`正确拼写：${esc(x.w)}`; if(!missed.includes(x.w)){missed.push(x.w);store.set('missed',missed);header(shown);}}
+      });
+    }
+    step();
+  }
+
+  function geminiText(d){
+    const words=d.w.map((x,i)=>`${i+1}. ${x.w} ${x.ipa} – ${x.zh}`).join('\n');
+    const miss=missed.length?`\n\n我之前拼错过的词：${missed.slice(-15).join(', ')}`:'';
+    return `你好！今天是我的英语单词本第 ${d.d} 天（剑桥 ${d.lv} 级别）。今天的 20 个单词是：\n${words}${miss}\n\n请你当我的英语小老师：先用简单的英文给我讲讲其中 5 个最难的词，再一个一个地考我，可以问意思、让我拼写，或者让我用这个词造句。一次只问一个问题，我答完你再问下一个。答对了表扬我，答错了耐心告诉我正确答案。全部考完后，告诉我哪些词还要多练。`;
+  }
+  function copy(text){
+    const fallback=()=>{const v=$('#view');v.insertAdjacentHTML('afterbegin',`<div class="panel"><strong>自动复制没成功，请长按下面的文字，全选后复制：</strong><textarea class="copy" readonly>${esc(text)}</textarea></div>`);v.querySelector('textarea').select();};
+    if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(()=>toast('已复制，打开 Gemini 粘贴就行'),fallback);
+    else fallback();
+  }
+
+  document.addEventListener('click',e=>{
+    const t=e.target.closest('button,[data-day],.cover'); if(!t) return;
+    if(t.classList.contains('cover')){t.classList.remove('cover');return;}
+    if(t.matches('.say')){play(t.dataset.src,t.dataset.text,t);return;}
+    if(t.dataset.view){view=t.dataset.view;if(view==='today')shown=unlocked();render();return;}
+    if(t.dataset.mode){mode=t.dataset.mode;store.set('mode',mode);render();return;}
+    if(t.dataset.day){shown=+t.dataset.day;view='today';render();window.scrollTo({top:0});return;}
+    if(t.matches('.mark')){const w=t.dataset.w;missed=missed.includes(w)?missed.filter(x=>x!==w):[...missed,w];store.set('missed',missed);render();return;}
+    const act=t.dataset.act;
+    if(act==='quiz'){const list=view==='missed'?missed.map(w=>DAYS.flatMap(d=>d.w).find(x=>x.w===w)).filter(Boolean):DAYS[shown-1].w;startQuiz(list);}
+    if(act==='back'){render();}
+    if(act==='gemini'){copy(geminiText(DAYS[shown-1]));}
+    if(act==='clearMissed'){missed=[];store.set('missed',missed);render();toast('错词本已清空');}
+  });
+  document.addEventListener('change',e=>{
+    if(e.target.id==='startDate'&&e.target.value){start=e.target.value;store.set('start',start);shown=null;render();toast('开始日期已更新');}
+  });
+
+  fetch('data/days.json').then(r=>r.json()).then(d=>{DAYS=d;render();})
+    .catch(()=>{$('#view').innerHTML='<p class="empty">单词没加载出来，请刷新页面再试。</p>';});
+})();
+</script>
+</body>
+</html>
